@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edithvillegas.github.io/sitemap.xml
+Sitemap: https://edithvillegas.github.io# the base hostname & protocol for your site/machine-learning# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
