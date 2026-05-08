@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/machine-learning/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-programa",
+          title: "Programa",
+          description: "Programa de la escuela.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/machine-learning/programa/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -43,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/machine-learning/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/machine-learning/teaching/";
           },
         },{id: "nav-people",
           title: "people",
