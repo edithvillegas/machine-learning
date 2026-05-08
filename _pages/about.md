@@ -23,6 +23,6 @@ Escuela de Machine Learning
 ## Organizadores
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Edith Villegas" affiliation="ICTP - UNESCO" url="https://edithvillegas.github.io/" img="assets/img/organizers/evillegas.JPG" %}
+  {% include people_horizontal.html name="Edith Villegas" affiliation="ICTP - UNESCO" url="https://edithvillegas.github.io/" img="assets/img/organizers/evillegas.png" %}
   {% include people_horizontal.html name="Debarshi Banerjee" affiliation="ICTP - UNESCO" url="https://dbanerjee.net/" img="assets/img/organizers/dbanerjee.jpeg" %}
 </div>
