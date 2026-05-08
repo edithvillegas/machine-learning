@@ -1,5 +1,5 @@
 ---
-layout: Intro
+layout: page
 title: Intro
 permalink: /
 subtitle: 
