@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/machine-learning/";
     },
-  },{id: "nav-programa",
+  },{id: "nav-inscripcion",
+          title: "Inscripcion",
+          description: "Inscripcion al evento.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/machine-learning/inscripcion/";
+          },
+        },{id: "nav-programa",
           title: "Programa",
           description: "Programa de la escuela.",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/machine-learning/ubicacion/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/machine-learning/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
