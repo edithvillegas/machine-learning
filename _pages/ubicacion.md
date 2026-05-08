@@ -1,5 +1,5 @@
 ---
-layout: Ubicacion
+layout: page
 title: Ubicacion
 permalink: /ubicacion/
 nav: true
