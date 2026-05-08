@@ -18,12 +18,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Contents 
-contenido
+Escuela de Machine Learning
 
-## Organizers
+## Organizadores
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Edith Villegas" affiliation="ICTP - UNESCO" url="https://gauthiergidel.github.io/" img="assets/img/organizers/evillegas.JPG" %}
-  {% include people_horizontal.html name="Debarshi Banerjee" affiliation="ICTP - UNESCO" url="https://velythyl.github.io/" img="assets/img/organizers/dbanerjee.jpeg" %}
+  {% include people_horizontal.html name="Edith Villegas" affiliation="ICTP - UNESCO" url="https://edithvillegas.github.io/" img="assets/img/organizers/evillegas.JPG" %}
+  {% include people_horizontal.html name="Debarshi Banerjee" affiliation="ICTP - UNESCO" url="https://dbanerjee.net/" img="assets/img/organizers/dbanerjee.jpeg" %}
 </div>
