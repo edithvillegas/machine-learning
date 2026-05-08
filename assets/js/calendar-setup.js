@@ -4,7 +4,7 @@ function toggleCalendar() {
   const btn = document.getElementById("calendar-toggle-btn");
   const isHidden = el.style.display === "none";
   el.style.display = isHidden ? "block" : "none";
-  btn.innerText = isHidden ? "Hide Calendar" : "Show Calendar";
+  btn.innerText = isHidden ? "Esconder Calendario" : "Mostrar Calendario";
 
   // Update calendar URL when toggling to ensure correct theme
   if (isHidden) {
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // You might want to update the button text too if it exists and is relevant
     const btn = document.getElementById("calendar-toggle-btn");
     if (btn) {
-      btn.innerText = "Hide Calendar"; // Set initial button text to "Hide"
+      btn.innerText = "Esconder Calendario"; // Set initial button text to "Hide"
     }
   }
   updateCalendarUrl();
