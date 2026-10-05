@@ -25,9 +25,12 @@ Además, los participantes tendrán la oportunidad de conectar con investigadore
 ## Organizadores
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Edith Villegas" affiliation="ICTP - UNESCO" url="https://edithvillegas.github.io/" img="assets/img/organizers/evillegas.png" %}
   
-  {% include people_horizontal.html name="Debarshi Banerjee" affiliation="ICTP - UNESCO" url="https://dbanerjee.net/" img="assets/img/organizers/dbanerjee.jpeg" %}
+  {% include people_horizontal.html name="Edith Villegas" affiliation="International Center for Theoretical Physics" url="https://edithvillegas.github.io/" img="assets/img/evillegas.png" %}
+  {% include people_horizontal.html name="Carlos Soto" affiliation="National Institute of Oceanography and Applied Geophysics" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/carlossoto.jpg" %}
+  {% include people_horizontal.html name="Lucio Villanueva" affiliation="Universidad Nacional Autónoma de Honduras" url="https://fisica.unah.edu.hn/acercanosotros/cuerpo-docente/lucio-villanueva/" img="assets/img/luciovillanueva.jpeg" %}
+  {% include people_horizontal.html name="Melissa Cruz" affiliation="Universidad Nacional Autónoma de Honduras" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/melissacruz.jpeg" %}
+
 </div>
 
 ## Ponentes
