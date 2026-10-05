@@ -56,6 +56,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
   {% include people_horizontal.html name="Joshua Lemus" affiliation="Universidad de Modena" url="https://www.linkedin.com/in/joshua-lemus-7102732a1/?isSelfProfile=false" img="assets/img/joshualemus.jpeg" %}
   {% include people_horizontal.html name="Elena Villalobos" affiliation="Tecnológico de Monterrey" url="https://egobiernoytp.tec.mx/es/sobre-egob/facultad-investigadores/perfil-asociados/elena-villalobos-nolasco" img="assets/img/elenavillalobos.jpeg" %}
   {% include people_horizontal.html name="Alex Rodríguez" affiliation="Universidad de Trieste" url="https://scholar.google.com/citations?user=zUOi5sQAAAAJ&hl" img="assets/img/alexrodriguez.jpg" %}
+  {% include people_horizontal.html name="Edgar Carrera" affiliation="Universidad San Francisco de Quito" url="https://scholar.google.com/citations?user=jkd_imwAAAAJ&hl" img="assets/img/edgarcarrera.jpeg" %}
   {% include people_horizontal.html name="Alessio Ansuini" affiliation="Universidad de Trieste" url="https://areasciencepark-rit.gitlab.io/lade/alessio.ansuini/" img="assets/img/alessioansuini.jpg" %}
   {% include people_horizontal.html name="Manuel Vásquez" affiliation="Instituto Gulbekian" url="https://www.linkedin.com/in/manuvasquez1/?isSelfProfile=false" img="assets/img/manuelvasquez.jpeg" %}
 
