@@ -32,7 +32,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   
-  {% include people_horizontal.html name="Edith Villegas" affiliation="International Center for Theoretical Physics <br> (Project Coordinator)" url="https://edithvillegas.github.io/" img="assets/img/evillegas.png" %}
+  {% include people_horizontal.html name="Edith Villegas" affiliation="International Center for Theoretical Physics <br> (Coordinadora)" url="https://edithvillegas.github.io/" img="assets/img/evillegas.png" %}
   {% include people_horizontal.html name="Carlos Soto" affiliation="National Institute of Oceanography and Applied Geophysics" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/carlossoto.jpg" %}
   {% include people_horizontal.html name="Lucio Villanueva" affiliation="Universidad Nacional Autónoma de Honduras" url="https://fisica.unah.edu.hn/acercanosotros/cuerpo-docente/lucio-villanueva/" img="assets/img/luciovillanueva.jpeg" %}
   {% include people_horizontal.html name="Melissa Cruz" affiliation="Universidad Nacional Autónoma de Honduras" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/melissacruz.jpeg" %}
@@ -43,9 +43,12 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   
-  {% include people_horizontal.html name="Edith Villegas" affiliation="International Center for Theoretical Physics" url="https://edithvillegas.github.io/" img="assets/img/evillegas.png" %}
-  {% include people_horizontal.html name="Carlos Soto" affiliation="National Institute of Oceanography and Applied Geophysics" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/carlossoto.jpg" %}
-  {% include people_horizontal.html name="Lucio Villanueva" affiliation="Universidad Nacional Autónoma de Honduras" url="https://fisica.unah.edu.hn/acercanosotros/cuerpo-docente/lucio-villanueva/" img="assets/img/luciovillanueva.jpeg" %}
-  {% include people_horizontal.html name="Melissa Cruz" affiliation="Universidad Nacional Autónoma de Honduras" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/melissacruz.jpeg" %}
+  {% include people_horizontal.html name="Daniela Pinto" affiliation="New York University" url="https://edithvillegas.github.io/" img="assets/img/danielapinto.jpeg" %}
+  {% include people_horizontal.html name="Ana Rivera" affiliation="Massachusetts Institute of Technology" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/anarivera.webp" %}
+  {% include people_horizontal.html name="Alvaro Carbonero" affiliation="Massachusetts Institute of Technology" url="https://fisica.unah.edu.hn/acercanosotros/cuerpo-docente/lucio-villanueva/" img="assets/img/alvarocarbonero.jpg" %}
+  {% include people_horizontal.html name="Joshua Lemus" affiliation="Universidad de Modena" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/joshualemus.jpeg" %}
+  {% include people_horizontal.html name="Elena Villalobos" affiliation="Tecnológico de Monterrey" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/elenavillalobos.jpeg" %}
+  {% include people_horizontal.html name="Alex Rodríguez" affiliation="Universidad de Trieste" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/alexrodriguez.jpg" %}
+  {% include people_horizontal.html name="Alessio Ansuini" affiliation="Universidad de Trieste" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/alessioansuini.jpg" %}
 
 </div>
