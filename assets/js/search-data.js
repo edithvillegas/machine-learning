@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/machine-learning/";
     },
-  },{id: "nav-inscripcion",
-          title: "Inscripcion",
-          description: "Inscripcion al evento.",
+  },{id: "nav-inscripción",
+          title: "Inscripción",
+          description: "Inscripción al evento.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/machine-learning/inscripcion/";
