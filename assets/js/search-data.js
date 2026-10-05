@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/machine-learning/programa/";
           },
-        },{id: "nav-ubicacion",
-          title: "Ubicacion",
+        },{id: "nav-ubicación",
+          title: "Ubicación",
           description: "",
           section: "Navigation",
           handler: () => {
