@@ -50,5 +50,6 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
   {% include people_horizontal.html name="Elena Villalobos" affiliation="Tecnológico de Monterrey" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/elenavillalobos.jpeg" %}
   {% include people_horizontal.html name="Alex Rodríguez" affiliation="Universidad de Trieste" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/alexrodriguez.jpg" %}
   {% include people_horizontal.html name="Alessio Ansuini" affiliation="Universidad de Trieste" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/alessioansuini.jpg" %}
+  {% include people_horizontal.html name="Manuel Vásquez" affiliation="Instituto Gulbekian" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/manuelvasquez.jpeg" %}
 
 </div>
