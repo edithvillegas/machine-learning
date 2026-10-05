@@ -28,6 +28,9 @@ Además, los participantes tendrán la oportunidad de conectar con investigadore
 
 Para más información, consulta la página del [ICTP](https://indico.ictp.it/event/11536/).
 
+![Póster de la escuela](assets/img/PWF_Honduras_ES.png)
+
+
 ## Organizadores
 
 <div class="row row-cols-2 projects pt-3 pb-3">
