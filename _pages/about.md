@@ -28,7 +28,11 @@ Además, los participantes tendrán la oportunidad de conectar con investigadore
 
 Para más información, consulta la página del [ICTP](https://indico.ictp.it/event/11536/).
 
-![Póster de la escuela](assets/img/PWF_Honduras_ES.png)
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mb-3">
+    <img src="{{ site.baseurl }}/assets/img/PWF_Honduras_ES.png" class="img-fluid rounded z-depth-1" alt="Póster de la escuela de machine learning">
+  </div>
+</div>
 
 
 ## Organizadores
@@ -44,7 +48,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
 
 ## Ponentes
 
-<div class="row row-cols-2 projects pt-3 pb-3">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 projects pt-3 pb-3">
   
   {% include people_horizontal.html name="Daniela Pinto" affiliation="New York University" url="https://dapivei.github.io/" img="assets/img/danielapinto.jpeg" %}
   {% include people_horizontal.html name="Ana Rivera" affiliation="Massachusetts Institute of Technology" url="https://scholar.google.com/citations?user=PgB1AJQAAAAJ&hl" img="assets/img/anarivera.webp" %}
