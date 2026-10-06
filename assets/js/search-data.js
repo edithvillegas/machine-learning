@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-escuela-de-machine-learning-data-science-de-honduras",
-    title: "Escuela de Machine Learning & Data Science de Honduras",
+    id: "nav-introducción",
+    title: "Introducción",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
