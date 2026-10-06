@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edithvillegas.github.io/machine-learning/sitemap.xml
+Sitemap: https://machine-learning-honduras.org/sitemap.xml
