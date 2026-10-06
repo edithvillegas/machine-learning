@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Escuela de Machine Learning & Data Science de Honduras
+title: Introducción
 permalink: /
 subtitle: 
 
