@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/inscripcion/";
           },
+        },{id: "nav-materiales",
+          title: "Materiales",
+          description: "Materiales de los cursos de la escuela.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/materiales/";
+          },
         },{id: "nav-programa",
           title: "Programa",
           description: "Programa de la escuela.",
