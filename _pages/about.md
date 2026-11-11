@@ -66,6 +66,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
   {% include people_horizontal.html name="Alessio Ansuini" affiliation="Universidad de Trieste" url="https://areasciencepark-rit.gitlab.io/lade/alessio.ansuini/" img="assets/img/alessioansuini.jpg" %}
   {% include people_horizontal.html name="Manuel Vásquez" affiliation="Instituto Gulbekian" url="https://www.linkedin.com/in/manuvasquez1/?isSelfProfile=false" img="assets/img/manuelvasquez.jpeg" %}
   {% include people_horizontal.html name="Juan Calderón" affiliation="Universidad Nacional Autónoma de Honduras" url="https://www.linkedin.com/in/jjcalderonsan/" img="assets/img/juancalderon.jpg" %}
+  {% include people_horizontal.html name="Eleonora Bergamin" affiliation="SISSA" url="https://idman.web-services.sissa.it/personDetails/19647" img="assets/img/eleonorabergamin.jpg" %}
   {% include people_horizontal.html name="Javier Aguilar" affiliation="International Centre for Theoretical Physics" url="https://scholar.google.com/citations?user=lk7BtHYAAAAJ&hl" img="assets/img/javier.jpg" %}
   {% include people_horizontal.html name="Irene Rubia-Rodríguez" affiliation="Technical University of Denmark" url="https://scholar.google.com/citations?user=xMGziJ8AAAAJ&hl" img="assets/img/irene.jpg" %}
   {% include people_horizontal.html name="Matteo Marsili" affiliation="International Centre for Theoretical Physics" url="https://scholar.google.com/citations?user=utY1nToAAAAJ&hl" img="assets/img/marsili.jpg" %}
