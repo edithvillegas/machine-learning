@@ -33,3 +33,23 @@ footer.sticky-bottom {
     text-align: center;
   }
 }
+
+// Partner logos above the footer
+.partner-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 4rem; // leave room above the fixed footer
+
+  img {
+    height: 60px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    background: #fff; // logos have white backgrounds; keeps them tidy in dark mode
+    border-radius: 6px;
+  }
+}
