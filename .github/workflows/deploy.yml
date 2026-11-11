@@ -88,6 +88,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Update program calendar 📅
+        # Keep the saved file if Google can't be reached, so the deploy still works.
+        run: python3 bin/update_program_calendar.py || echo "Calendar download failed; using the saved events."
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick

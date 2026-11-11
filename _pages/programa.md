@@ -12,7 +12,7 @@ calendar: true
 
 🕝 Horarios: 9:00 am a 4:00 pm de Honduras
 
-{% include calendar.liquid calendar_id='95c72dd39a459df4b364520357d853c99a8c3db9cf65abdfd688d0494b75935d@group.calendar.google.com' timezone='America/Tegucigalpa' mode='WEEK' start_date='20261123' %}
+{% include program_calendar.liquid start='2026-11-23' end='2026-12-04' %}
 
 {% comment %}
 {% include courses.liquid %} 

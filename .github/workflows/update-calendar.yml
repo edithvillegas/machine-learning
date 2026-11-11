@@ -1,0 +1,50 @@
+name: Update program calendar
+
+# Downloads the public Google Calendar every hour and saves its events to
+# assets/json/program-events.json. If anything changed, it commits the file
+# and redeploys the site so the Programa page shows the new program.
+# Can also be run by hand: Actions tab -> "Update program calendar" -> "Run workflow".
+
+on:
+  schedule:
+    - cron: "17 * * * *" # every hour, at minute 17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Download calendar events
+        run: python3 bin/update_program_calendar.py
+
+      - name: Commit and redeploy if the program changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- assets/json/program-events.json; then
+            echo "Calendar unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/json/program-events.json
+          git commit -m "Update program calendar"
+          git push
+          # Pushes made by this workflow don't start other workflows, so start the deploy explicitly.
+          gh workflow run deploy.yml --ref "${{ github.ref_name }}"

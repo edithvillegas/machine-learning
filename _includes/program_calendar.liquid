@@ -1,0 +1,43 @@
+{% comment %}
+  Program calendar, coloured by speaker.
+  Usage:
+    {% include program_calendar.liquid start='2026-11-23' end='2026-12-04' %}
+  Events are read from assets/json/program-events.json, which the "Update program calendar"
+  GitHub workflow refreshes every hour from the public Google Calendar (no API key needed).
+{% endcomment %}
+
+<div class="program-calendar-block">
+  <p id="program-calendar-status" class="text-muted">Cargando el programa…</p>
+  <div
+    id="program-calendar"
+    data-events="{{ '/assets/json/program-events.json' | relative_url }}"
+    data-start="{{ include.start }}"
+    data-end="{{ include.end }}"
+  ></div>
+  <div id="program-event-details" class="program-event-details card card-body mt-3" hidden></div>
+</div>
+
+<style>
+  /* Day names at the top: plain text, not links */
+  #program-calendar .fc-col-header-cell-cushion,
+  #program-calendar .fc-list-day-text,
+  #program-calendar .fc-list-day-side-text {
+    color: inherit;
+    text-decoration: none;
+    pointer-events: none;
+  }
+  #program-calendar .fc-event {
+    cursor: pointer;
+    font-size: 0.78rem;
+  }
+  #program-calendar .fc-event-main {
+    color: #fff;
+  }
+  #program-calendar .fc-toolbar-title {
+    font-size: 1.15rem;
+  }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.15/locales/es.global.min.js"></script>
+<script defer src="{{ '/assets/js/program-calendar.js' | relative_url }}"></script>
