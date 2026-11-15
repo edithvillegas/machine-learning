@@ -40,7 +40,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
 <div class="row row-cols-2 projects pt-3 pb-3">
   
   {% include people_horizontal.html name="Edith Villegas" affiliation="International Center for Theoretical Physics <br> (Coordinadora)" url="https://edithvillegas.github.io/" img="assets/img/evillegas.png" %}
-  {% include people_horizontal.html name="Carlos Soto" affiliation="National Institute of Oceanography and Applied Geophysics" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/carlossoto.jpg" %}
+  {% include people_horizontal.html name="Carlos Enmanuel Soto Lopez" affiliation="National Institute of Oceanography and Applied Geophysics (OGS), Italy" url="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" img="assets/img/carlossoto.jpg" %}
   {% include people_horizontal.html name="Lucio Villanueva" affiliation="Universidad Nacional Autónoma de Honduras" url="https://fisica.unah.edu.hn/acercanosotros/cuerpo-docente/lucio-villanueva/" img="assets/img/luciovillanueva.jpeg" %}
   {% include people_horizontal.html name="Melissa Cruz" affiliation="Universidad Nacional Autónoma de Honduras" url="https://maestriafisica.unah.edu.hn/investigacion/docentes/" img="assets/img/melissacruz.jpeg" %}
 
@@ -52,7 +52,7 @@ Para más información, consulta la página del [ICTP](https://indico.ictp.it/ev
 {% include people_horizontal.html name="Daniela Pinto" affiliation="New York University" url="https://dapivei.github.io/" img="assets/img/danielapinto.jpeg" %}
   {% include people_horizontal.html name="Ana Rivera" affiliation="Massachusetts Institute of Technology" url="https://scholar.google.com/citations?user=PgB1AJQAAAAJ&hl" img="assets/img/anarivera.webp" %}
   {% include people_horizontal.html name="Alvaro Carbonero" affiliation="Massachusetts Institute of Technology" url="https://scholar.google.com/citations?user=-dwecpcAAAAJ&hl" img="assets/img/alvarocarbonero.jpg" %}
-  {% include people_horizontal.html name="Joshua Lemus" affiliation="Universidad de Modena" url="https://www.linkedin.com/in/joshua-lemus-7102732a1/?isSelfProfile=false" img="assets/img/joshualemus.jpeg" %}
+  {% include people_horizontal.html name="Joshua Lemus" affiliation="Università degli studi di Modena e Reggio Emilia" url="https://www.linkedin.com/in/joshua-lemus-7102732a1/?isSelfProfile=false" img="assets/img/joshualemus.jpeg" %}
   {% include people_horizontal.html name="Elena Villalobos" affiliation="Tecnológico de Monterrey" url="https://egobiernoytp.tec.mx/es/sobre-egob/facultad-investigadores/perfil-asociados/elena-villalobos-nolasco" img="assets/img/elenavillalobos.jpeg" %}
   {% include people_horizontal.html name="Alex Rodríguez" affiliation="Universidad de Trieste" url="https://scholar.google.com/citations?user=zUOi5sQAAAAJ&hl" img="assets/img/alexrodriguez.jpg" %}
   {% include people_horizontal.html name="Edgar Carrera" affiliation="Universidad San Francisco de Quito" url="https://scholar.google.com/citations?user=jkd_imwAAAAJ&hl" img="assets/img/edgarcarrera.jpeg" %}
