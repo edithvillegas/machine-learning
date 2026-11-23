@@ -6,6 +6,17 @@ description: Materiales de los cursos de la escuela.
 nav: true
 ---
 
+### Edith Natalia Villegas Garcia
+_ICTP_ &nbsp;
+<a href="https://www.linkedin.com/in/edithvillegas/" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+
+**Introducción al Machine Learning y Redes Neuronales**
+
+Introducción a la inteligencia artificial y al aprendizaje automático, Linux y la terminal, teoría de redes neuronales, redes convolucionales y autocodificadores, transformers y modelos de lenguaje, prácticas con PyTorch y HuggingFace.
+
+<a href="https://edithvillegas.github.io/introduccion-ml-redes-neuronales/" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
+<a href="https://github.com/edithvillegas/introduccion-ml-redes-neuronales" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+
 ### Daniela Pinto Veizaga
 _New York University_ &nbsp;
 <a href="https://www.linkedin.com/in/danielapintoveizaga/" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
