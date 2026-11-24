@@ -38,6 +38,7 @@ _OGS_ &nbsp;
 
 Introducción de métodos supervisados y no supervisados: Principal Component Analysis, regresion lineal, multilineal y logística, y métodos iterativos de minimización. 
 
-<a href="https://htmlpreview.github.io/?https://github.com/carlossoto362/pwf_honduras_slides/blob/main/PCA1.html#/title-slide" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
+<a href="https://htmlpreview.github.io/?https://github.com/carlossoto362/pwf_honduras_slides/blob/main/PCA1.html" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
 <a href="https://github.com/carlossoto362/pwf_honduras_slides" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+
 ---
