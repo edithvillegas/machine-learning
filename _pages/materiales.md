@@ -30,4 +30,14 @@ Termina con una introducción a los agentes basados en LLM: herramientas, memori
 <a href="https://dapivei.github.io/escuela-machine-learning-honduras-2026/#/1" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
 <a href="https://github.com/dapivei/escuela-machine-learning-honduras-2026" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
 
+### Carlos Enmanuel Soto Lopez
+_OGS_ &nbsp;
+<a href="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" target="_blank" rel="noopener" title="OGS page"></a>
+
+**PCA, regresion y metodos de minimización iterativos**
+
+Introducción de métodos supervisados y no supervisados: Principal Component Analysis, regresion lineal, multilineal y logística, y métodos iterativos de minimización. 
+
+<a href="https://htmlpreview.github.io/?https://github.com/carlossoto362/pwf_honduras_slides/blob/main/PCA1.html#/title-slide" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
+
 ---
