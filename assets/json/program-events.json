@@ -101,7 +101,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Aprendizaje no supervisado (Clustering, Alex Rodriguez)",
+   "summary": "PCA (Carlos Soto)",
    "start": {
     "dateTime": "2026-11-24T15:00:00Z"
    },
@@ -111,7 +111,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Introduccion a Python (Daniela Pinto)",
+   "summary": "Aprendizaje no supervisado (Alex Rodriguez)",
    "start": {
     "dateTime": "2026-11-24T16:00:00Z"
    },
@@ -121,7 +121,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Probabilidad (Javier Aguilar)",
+   "summary": "Introduccion a Python (Daniela Pinto)",
    "start": {
     "dateTime": "2026-11-24T17:30:00Z"
    },
@@ -131,7 +131,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Introduccion a Python & Clasificacion (Daniela Pinto)",
+   "summary": "Probabilidad (Javier Aguilar)",
    "start": {
     "dateTime": "2026-11-24T19:30:00Z"
    },
@@ -201,7 +201,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Aprendizaje no supervisado (Alex Rodriguez)",
+   "summary": "Metodos de optimizacion iterativos (Carlos Soto)",
    "start": {
     "dateTime": "2026-11-26T15:00:00Z"
    },
@@ -211,7 +211,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Metodos de optimizacion iterativos (Carlos Soto)",
+   "summary": "Aprendizaje no supervisado (Alex Rodriguez)",
    "start": {
     "dateTime": "2026-11-26T16:00:00Z"
    },
@@ -231,7 +231,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Practica metodos de optimizacion (Carlos Soto)",
+   "summary": "Analisis de Datos Medicos (Juan Calderon)",
    "start": {
     "dateTime": "2026-11-26T19:30:00Z"
    },
@@ -281,12 +281,12 @@
    "status": "confirmed"
   },
   {
-   "summary": "Analisis de Datos Medicos (Juan Calderon)",
+   "summary": "Datos demográficos (Benjamín Rodríguez)",
    "start": {
     "dateTime": "2026-11-27T19:30:00Z"
    },
    "end": {
-    "dateTime": "2026-11-27T20:30:00Z"
+    "dateTime": "2026-11-27T20:40:00Z"
    },
    "status": "confirmed"
   },
@@ -351,7 +351,7 @@
    "status": "confirmed"
   },
   {
-   "summary": "Aprendizaje no supervisado 2 (Alex Rodriguez)",
+   "summary": "Aprendizaje no supervisado (Alex Rodriguez)",
    "start": {
     "dateTime": "2026-12-01T15:00:00Z"
    },
