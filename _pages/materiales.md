@@ -15,7 +15,8 @@ _ICTP_ &nbsp;
 Introducción a la inteligencia artificial y al aprendizaje automático, Linux y la terminal, teoría de redes neuronales, redes convolucionales y autocodificadores, transformers y modelos de lenguaje, prácticas con PyTorch y HuggingFace.
 
 <a href="https://edithvillegas.github.io/introduccion-ml-redes-neuronales/" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
-<a href="https://github.com/edithvillegas/introduccion-ml-redes-neuronales" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+<a href="https://github.com/edithvillegas/introduccion-ml-redes-neuronales" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a> &nbsp;·&nbsp;
+<a href="https://youtube.com/playlist?list=PLUyGr4yhre-M&si=JYXH-sn8I_qHVzlY" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i> Videos</a>
 
 ### Daniela Pinto Veizaga
 _New York University_ &nbsp;
@@ -28,7 +29,8 @@ Después aborda cómo visualizar datos de forma honesta y cómo construir y eval
 Termina con una introducción a los agentes basados en LLM: herramientas, memoria, RAG, planificación y sistemas multiagente.
 
 <a href="https://dapivei.github.io/escuela-machine-learning-honduras-2026/#/1" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
-<a href="https://github.com/dapivei/escuela-machine-learning-honduras-2026" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+<a href="https://github.com/dapivei/escuela-machine-learning-honduras-2026" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a> &nbsp;·&nbsp;
+<a href="https://youtube.com/playlist?list=PLGvWc3tgIPfg&si=q8Xl4Iii45avuvlJ" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i> Videos</a>
 
 ### Carlos Enmanuel Soto Lopez
 _OGS_ &nbsp;
