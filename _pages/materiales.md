@@ -51,7 +51,7 @@ _SISSA_ &nbsp;
 
 Jupyter notebook con ejercicios sobre la transición BBP. Slides se compartirán en Enero 2027.
 
-<a href="https://raw.githubusercontent.com/edithvillegas/machine-learning/refs/heads/main/_pages/BBP_transition.ipynb?download=1" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Documento Jupyter notebook</a> &nbsp;·&nbsp;
+<a href="[https://raw.githubusercontent.com/edithvillegas/machine-learning/refs/heads/main/_pages/BBP_transition.ipynb?download=1](https://colab.research.google.com/github/edithvillegas/machine-learning/blob/main/_pages/BBP_transition.ipynb?utm_source=chatgpt.com)" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Documento Jupyter notebook</a> &nbsp;·&nbsp;
 
 
 ### Benjamín Rodríguez
