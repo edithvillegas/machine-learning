@@ -64,5 +64,6 @@ Aplicación de PCA y K-means en estudios demográficos y socioeconómicos en los
 
 <a href="https://benjaroagui.github.io/pwf_ml/slides.html#/title-slide" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
 <a href="https://github.com/benjaroagui/pwf_ml" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+<a href="https://colab.research.google.com/drive/1jfP1LbwRMt7ddaAhOzZpIydTJHwYPmgW?usp=sharing" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Notebook</a>
 
 ---
