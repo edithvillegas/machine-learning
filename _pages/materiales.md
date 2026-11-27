@@ -43,4 +43,26 @@ Introducción de métodos supervisados y no supervisados: Principal Component An
 <a href="https://carlossoto362.github.io/pwf_honduras_slides/main.html" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
 <a href="https://github.com/carlossoto362/pwf_honduras_slides" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
 
+### Eleonora Bergamin
+_SISSA_ &nbsp;
+<a href="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" target="_blank" rel="noopener" title="OGS page"></a>
+
+**The BBP transition**
+
+Jupyter notebook con ejercicios sobre la transición BBP. Slides se compartirán en Enero 2027.
+
+<a href="https://raw.githubusercontent.com/edithvillegas/machine-learning/refs/heads/main/_pages/BBP_transition.ipynb" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Documento Jupyter notebook</a> &nbsp;·&nbsp;
+
+
+### Benjamín Rodríguez
+_Instituto Nacional de Estadística de Guatemala_ &nbsp;
+<a href="https://www.ogs.it/en/users/carlos-enmanuel-soto-lopez" target="_blank" rel="noopener" title="OGS page"></a>
+
+**Aplicación de PCA y K-means en estudios demográficos y socioeconómicos en los municipios de Guatemala**
+
+Aplicación de PCA y K-means en estudios demográficos y socioeconómicos en los municipios de Guatemala. 
+
+<a href="https://benjaroagui.github.io/pwf_ml/slides.html#/title-slide" target="_blank" rel="noopener"><i class="fa-solid fa-person-chalkboard"></i> Diapositivas</a> &nbsp;·&nbsp;
+<a href="https://github.com/benjaroagui/pwf_ml" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Repositorio</a>
+
 ---
